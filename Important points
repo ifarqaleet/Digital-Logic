@@ -1,4 +1,5 @@
 1. For two binary numbers represented in 2s complement form, for the MSB the Cin and Cout Xor should be 1 for the condition of overflow to satisfy 
 2. The same in point 1 does not apply to 1s complement. 
 
-1.
+1. Xor (A1.B1.C1....odd nos) = XNOR of (A1.B1.C1..... odd nos)
+2. that is the operation output for xor and xnor are equal in odd num of inputs 
