@@ -3,3 +3,6 @@
 
 1. Xor (A1.B1.C1....odd nos) = XNOR of (A1.B1.C1..... odd nos)
 2. that is the operation output for xor and xnor are equal in odd num of inputs 
+
+1. If for boolean exp there are x variables given then the no of inputs will be 2^x and total number of possible minters from this will be 2^2^n 
+2. Similarly if we are specifically asked the number of expressions possible for x inputs but only outputs where there are 2 minterms then it wll be xC2
