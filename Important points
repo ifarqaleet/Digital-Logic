@@ -9,3 +9,6 @@
 
 1. Product of some -> NOR 
 2. Sum of product -> NAND 
+
+1. Static 1 hazard = those where we expected 1 as asnwer but came 0
+2. Static 0 hazard = expected 0 but resulted 1
